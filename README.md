@@ -16,6 +16,8 @@ Create Month Column from Date:
 ## FINAL DASHBOARD
 [View Dashboard](https://docs.google.com/spreadsheets/d/e/2PACX-1vQ37boO88R6UBJxP5mvcDLrO8zk1rU-LRICCJR04XHl9k_OOo_lTNfSQEmeh40PBA/pubhtml)
 
+[Dashboard](https://github.com/S-Prakash-github/Vrinda-Store-Sales-Analysis/blob/main/Vrinda%20Store%20DASHBOARD.xlsx)
+
 ![Screenshot 2023-11-25 170938](https://github.com/S-Prakash-github/Vrinda-Store-Sales-Analysis/assets/91363429/413ba19b-0ae7-4beb-bed1-9208db859211)
 
 
