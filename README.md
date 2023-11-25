@@ -14,7 +14,17 @@ Create Month Column from Date:
 
 
 ## FINAL DASHBOARD
- ![Screenshot 2023-11-25 134155](https://github.com/S-Prakash-github/Vrinda-Store-Sales-Analysis/assets/91363429/c8830881-d2cf-42cb-84d5-68c3f9e997bb)
+[View Dashboard](https://docs.google.com/spreadsheets/d/e/2PACX-1vQ37boO88R6UBJxP5mvcDLrO8zk1rU-LRICCJR04XHl9k_OOo_lTNfSQEmeh40PBA/pubhtml)
+
+![Screenshot 2023-11-25 170938](https://github.com/S-Prakash-github/Vrinda-Store-Sales-Analysis/assets/91363429/413ba19b-0ae7-4beb-bed1-9208db859211)
+
+
+
+### 💢 FILTERS
+![Screenshot 2023-11-25 164121](https://github.com/S-Prakash-github/Vrinda-Store-Sales-Analysis/assets/91363429/8b2e35f6-9773-47dc-a936-92418cbb438e)
+>The incorporation of dynamic filters for month, status, and category enhances the interactivity and analytical depth of the dashboard. Users can easily navigate and explore deep insights by dynamically adjusting these filters. Whether examining sales trends over specific months, monitoring the status of orders, or delving into product categories, the dynamic filters provide a user-friendly and efficient means of interacting with the dashboard.
+
+
 
 ## Objective
 
@@ -38,18 +48,29 @@ Create Month Column from Date:
 > In summary, the analysis and visual representation, through the pivot table and pie chart, revealed that women contribute more significantly to the total purchase amounts compared to men, holding a majority share in the observed data.
 
 
+
 ### 💢 What are the different order statuses?
 ![Screenshot 2023-11-25 161422](https://github.com/S-Prakash-github/Vrinda-Store-Sales-Analysis/assets/91363429/64417ed3-eec3-4092-853d-ac2698c4f0f6)
 
 -Order Status Analysis: Examined the distribution of orders based on different order statuses, which include 'Return,' 'Refunded,' 'Delivered,' and 'Cancelled.'
 - Pie Chart Visualization: Created a pie chart to visually represent the share of each order status category. Each slice of the pie corresponds to one of the order status categories.
 - Key Observations: Noted that the 'Delivered' status dominates the order distribution, contributing a substantial 92% share.The remaining 8% is distributed among other order statuses, including 'Return,' 'Refunded,' and 'Cancelled.'
-> In conclusion, the pie chart provides a clear overview of the order status distribution, emphasizing that the majority of orders are successfully delivered. The visualization highlights the relative proportions of each order status category, with 'Delivered' standing out as the predominant status.
+> In conclusion, the pie chart provides a clear overview of the order status distribution, emphasizing that the majority of orders are successfully delivered. The visualization highlights the relative proportions of each order statuscategory, with 'Delivered' standing out as the predominant status.
 
-### 💢 List top 10 State
-s?
-  
+
+
+### 💢 List top 5 States?
+![Screenshot 2023-11-25 154601](https://github.com/S-Prakash-github/Vrinda-Store-Sales-Analysis/assets/91363429/d9fbdef8-19c1-4957-9897-2899f29d159c)
+- Objective:Aimed to visually represent the distribution of sales across different states, focusing specifically on identifying the top 5 states with the highest sales.
+- Histogram Chart Creation:Constructed a histogram chart to display the sales distribution among various states. The chart highlights the frequency or count of states falling within different sales ranges.
+> The histogram chart analysis reveals that this 5 states stands out as the highest sales among the dataset. This insight provides a clear understanding of the geographic concentration of sales, emphasizing the significance of Maharashtra in contributing to the overall sales figures.
+
+
+
 ### 💢 Total Sales and Quantity Sold 
+![Screenshot 2023-11-25 154549](https://github.com/S-Prakash-github/Vrinda-Store-Sales-Analysis/assets/91363429/1a65cee4-4461-4f93-b718-47e669ec4358)
+- This card visual was introduced to offer a quick and concise representation of key metrics. The card visual prominently displays the aggregate sales and quantity sold, providing at-a-glance insights into the overall performance.
+> By applying filters, it becomes apparent that more than 2600 products have been successfully delivered, contributing to total sales surpassing 19.7 lakh. This dynamic modification capability provides users with a more granular and focused view of specific metrics, fostering a deeper understanding of the dataset and facilitating more informed decision-making.
 
 
 
@@ -64,9 +85,14 @@ s?
 > In conclusion, the visual representation reveals that women play a significant role in contributing to sales, and the majority of sales are concentrated in the adult age group. This analysis provides valuable insights into the gender-wise and age-wise dynamics of sales distribution.
 
 
-### 💢 Which channel is contributing themaximum sales?
-  
-### 💢Highest Selling Category
+### 💢 Which channel is contributing the maximum sales?
+![Screenshot 2023-11-25 154541](https://github.com/S-Prakash-github/Vrinda-Store-Sales-Analysis/assets/91363429/b438446b-db91-4fc4-8eaf-41d52594456e)
 
-![Screenshot 2023-11-25 154549](https://github.com/S-Prakash-github/Vrinda-Store-Sales-Analysis/assets/91363429/1a65cee4-4461-4f93-b718-47e669ec4358)
-   ![Screenshot 2023-11-25 154528](https://github.com/S-Prakash-github/Vrinda-Store-Sales-Analysis/assets/91363429/19c820fb-5bd3-479b-966a-e7dd9ecd7889)
+>A bar chart analysis underscores Amazon's clear dominance as the top-performing channel. The visual representation highlights Amazon's substantial contribution compared to other channels, providing a quick and easily interpretable insight into the hierarchy of sales channels. This observation can guide strategic decisions and resource allocation to further leverage the strength of Amazon in the overall sales strategy.
+
+### 💢Highest Selling Category
+![Screenshot 2023-11-25 170500](https://github.com/S-Prakash-github/Vrinda-Store-Sales-Analysis/assets/91363429/61a51dd8-3759-4c74-8b99-8d63c4583c7b)
+> The highest selling category is Set
+
+
+
