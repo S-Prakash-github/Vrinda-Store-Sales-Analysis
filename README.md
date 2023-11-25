@@ -1,4 +1,7 @@
 # Vrinda-Store-Sales-Analysis🛒
+#### Project Objective
+The Vrinda Store wants to create an annual sales report for 2022. So that, the owner of the Vrinda store can understand their customers and grow more sales in 2023.
+
 #### Data Cleaning 
 ## FINAL DASHBOARD
  ![Screenshot 2023-11-25 134155](https://github.com/S-Prakash-github/Vrinda-Store-Sales-Analysis/assets/91363429/c8830881-d2cf-42cb-84d5-68c3f9e997bb)
