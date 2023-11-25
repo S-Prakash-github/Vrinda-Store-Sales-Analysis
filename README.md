@@ -1,5 +1,5 @@
 # Vrinda-Store-Sales-Analysis🛒
-<a href="https://docs.google.com/spreadsheets/d/your_spreadsheet_id/edit" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Google%20Sheets-Open%20Document-brightgreen" alt="Google Sheets"></a>
+<a href="[https://docs.google.com/spreadsheets/d/your_spreadsheet_id/edit](https://github.com/S-Prakash-github/Vrinda-Store-Sales-Analysis/blob/main/Vrinda%20Store%20DASHBOARD.xlsx)" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Google%20Sheets-Open%20Document-brightgreen" alt="Google Sheets"></a>
 
 #### Project Objective
 The Vrinda Store wants to create an annual sales report for 2022. So that, the owner of the Vrinda store can understand their customers and grow more sales in 2023.
